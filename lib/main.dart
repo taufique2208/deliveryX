@@ -1,4 +1,4 @@
-import 'package:deliveryx/send/pages/orderdetails_sender.dart';
+import 'package:deliveryx/Sender/pages/orderdetails_sender.dart';
 import 'package:flutter/material.dart';
 
 void main() {
